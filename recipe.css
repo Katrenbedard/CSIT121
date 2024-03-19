@@ -1,0 +1,38 @@
+body {
+    background-image: url(Sea\ Sun.jpeg);
+    background-size: 1750px;
+    border-bottom-style: dashed 
+}
+img {
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+h1 {
+    color: #214067;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+    text-transform: capitalize;
+    box-shadow: 0px 0px 50px rgb(84, 21, 21);
+}
+h2 {
+    font-family: fantasy;
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: rgb(0, 0, 0);
+    margin: 15px;
+}
+
+p {
+    margin: 15px;
+    color: rgba(0, 0, 0);
+}
+li {
+    text-transform: capitalize;
+    list-style-position: inside;
+    margin: 15px;
+    color: rgba(0, 0, 0);
+}
