@@ -1,8 +1,0 @@
-table, th, td {
-    border: solid black 1px;
-    color: rgb(53, 147, 147);
-    background-color: lightgoldenrodyellow;
-    column-count: 1;
-    column-gap: 40px;
-  }
-
